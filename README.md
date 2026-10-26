@@ -26,4 +26,4 @@ Most of this is client work or an ongoing university project, so the code is pri
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/borasozer)
+[LinkedIn](https://www.linkedin.com/in/borasozer) · [borasozer.com](https://borasozer.com)
